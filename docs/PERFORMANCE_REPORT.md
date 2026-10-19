@@ -1,6 +1,6 @@
 # Performance Optimization & Profiler Report: Practical 8
 
-**Student**: Vivek Maheshwari (24CS050)  
+**Student**: Parth Patel (24CS069)  
 **Institution**: CSPIT, CHARUSAT  
 **Course**: ITUE301 - Advanced Web Development Frameworks  
 

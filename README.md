@@ -4,9 +4,9 @@
 **Department**: Computer Science and Engineering  
 **Institute**: Chandubhai S. Patel Institute of Technology (CSPIT), CHARUSAT  
 **Academic Year**: 2025–2026  
-**Student Name**: Vivek Maheshwari  
-**Student ID**: 24CS050  
-**GitHub Repository**: [24CS050Vivek/ITUE301-AWDF_Practical8](https://github.com/24CS050Vivek/ITUE301-AWDF_Practical8)
+**Student Name**: Parth Patel  
+**Student ID**: 24CS069  
+**GitHub Repository**: [24CS069Parth/ITUE301-AWDF_Practical8](https://github.com/24CS069Parth/ITUE301-AWDF_Practical8)
 
 ---
 
